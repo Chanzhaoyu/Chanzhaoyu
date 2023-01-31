@@ -2,4 +2,4 @@
 
 - 💻 Front-end development
 - 🧑‍💻 Open source enthusiast
-- 🌈 Design? a little
+- 🌈 Believe～
