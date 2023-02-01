@@ -2,4 +2,4 @@
 
 - 💻 Front-end development
 - 🧑‍💻 Open source enthusiast
-- 🌈 Believe～
+- 🌈 Less is more, Worse is better ～
