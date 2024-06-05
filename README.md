@@ -34,13 +34,9 @@
 </p>
 
 <div>
-<img src="https://komarev.com/ghpvc/?username=chanzhaoyu&label=Profile%20views&color=0e75b6&style=flat" alt="chanzhaoyu" />
-</div>
-
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanzhaoyu&show_icons=true&locale=en&layout=compact" alt="chanzhaoyu" />
-</div>
-
-<div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=chanzhaoyu&show_icons=true&locale=en" alt="chanzhaoyu" />
+</div>
+
+<div>
+<img src="https://komarev.com/ghpvc/?username=chanzhaoyu&label=Profile%20views&color=0e75b6&style=flat" alt="chanzhaoyu" />
 </div>
