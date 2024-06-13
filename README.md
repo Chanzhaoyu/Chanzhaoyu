@@ -143,6 +143,14 @@
     height="40"
   />
 </p>
+
+#### VSCode extension
+[Svelte 5 Snippets](https://marketplace.visualstudio.com/items?itemName=Chanzhaoyu.svelte-5-snippets)
+
+[Hono Snippets](https://marketplace.visualstudio.com/items?itemName=Chanzhaoyu.hono-snippets)
+
+#### Total
+
 <p>
   <img
     src="https://github-readme-stats.vercel.app/api?username=chanzhaoyu&show_icons=true&locale=en"
