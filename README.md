@@ -10,75 +10,115 @@
 
  <p>
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+    src="https://svgl.app/library/html5.svg"
     alt="html5"
     width="40"
     height="40"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+    src="https://svgl.app/library/css.svg"
     alt="css3"
     width="40"
     height="40"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    src="https://svgl.app/library/javascript.svg"
     alt="javascript"
     width="40"
     height="40"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    src="https://svgl.app/library/typescript.svg"
     alt="typescript"
     width="40"
     height="40"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+    src="https://svgl.app/library/react.svg"
     alt="react"
     width="40"
     height="40"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-    alt="vuejs"
+    src="https://svgl.app/library/vue.svg"
+    alt="vue"
     width="40"
     height="40"
   />
   <img
-    src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"
+    src="https://svgl.app/library/svelte.svg"
     alt="svelte"
     width="40"
     height="40"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidjs/solidjs-original.svg"
-    alt="svelte"
+    src="https://svgl.app/library/solidjs.svg"
+    alt="solid"
     width="40"
     height="40"
   />
   <img
-    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+    src="https://svgl.app/library/tailwindcss.svg"
     alt="tailwind"
     width="40"
     height="40"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-    alt="nodejs"
+    src="https://svgl.app/library/nodejs.svg"
+    alt="node"
     width="40"
     height="40"
   />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+    src="https://svgl.app/library/nestjs.svg"
+    alt="nest"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://svgl.app/library/expressjs.svg"
+    alt="express"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://svgl.app/library/hono.svg"
+    alt="hono"
+    width="40"
+    height="40"
+  />
+  <img 
+    src="https://svgl.app/library/nextjs_icon_dark.svg" 
+    alt="next"
+    width="40" 
+    height="40" 
+  />
+  <img 
+    src="https://svgl.app/library/nuxt.svg" 
+    alt="nuxt"
+    width="40" 
+    height="40" 
+  />
+   <img 
+    src="https://svgl.app/library/astro.svg" 
+    alt="astro"
+    width="40" 
+    height="40" 
+  />
+  <img
+    src="https://svgl.app/library/vitejs.svg"
+    alt="vite"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://svgl.app/library/golang.svg"
     alt="go"
     width="40"
     height="40"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    src="https://svgl.app/library/python.svg"
     alt="python"
     width="40"
     height="40"
