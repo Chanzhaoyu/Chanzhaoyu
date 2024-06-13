@@ -4,7 +4,7 @@
 
 🧑‍💻 Open source enthusiast
 
-🌈 Less is more, Worse is better ～
+🌈 Less is more, Worse is better ～
 
 #### Languages and Tools:
 
@@ -47,6 +47,12 @@
   />
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"
+    alt="svelte"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidjs/solidjs-original.svg"
     alt="svelte"
     width="40"
     height="40"
