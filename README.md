@@ -6,7 +6,7 @@
 
 🌈 Less is more, Worse is better ～
 
-#### Languages and Tools:
+#### Languages and Tools
 
  <p>
   <img
