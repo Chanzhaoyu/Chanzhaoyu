@@ -102,8 +102,8 @@
   />
   <img 
     src="https://remix.run/favicon-192.png" 
-    alt="next"
-    title="next"
+    alt="remix"
+    title="remix"
     width="40" 
     height="40" 
   />
