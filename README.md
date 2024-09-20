@@ -101,7 +101,7 @@
     height="40"
   />
   <img 
-    src="https://remix.run/assets/icons-8c3KNCpH.svg" 
+    src="https://remix.run/favicon-192.png" 
     alt="next"
     title="next"
     width="40" 
