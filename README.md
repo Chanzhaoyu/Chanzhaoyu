@@ -101,6 +101,13 @@
     height="40"
   />
   <img 
+    src="https://remix.run/assets/icons-8c3KNCpH.svg" 
+    alt="next"
+    title="next"
+    width="40" 
+    height="40" 
+  />
+  <img 
     src="https://svgl.app/library/nextjs_icon_dark.svg" 
     alt="next"
     title="next"
