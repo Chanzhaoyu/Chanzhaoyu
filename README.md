@@ -38,7 +38,7 @@
     height="40"
   />
   <img
-    src="https://svgl.app/library/react.svg"
+    src="https://svgl.app/library/react_light.svg"
     alt="react"
     title="react"
     width="40"
@@ -139,13 +139,6 @@
     src="https://svgl.app/library/golang.svg"
     alt="go"
     title="go"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://svgl.app/library/python.svg"
-    alt="python"
-    title="python"
     width="40"
     height="40"
   />
