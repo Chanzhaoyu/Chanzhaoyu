@@ -151,11 +151,4 @@
 
 #### Total
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=chanzhaoyu&show_icons=true&locale=en"
-    alt="ChanZhaoYu"
-  />
-</p>
-
 <img src="https://komarev.com/ghpvc/?username=chanzhaoyu&label=Profile%20views&color=0e75b6&style=flat" alt="ChanZhaoYu" />
