@@ -122,14 +122,14 @@
     height="40" 
   />
    <img 
-    src="https://svgl.app/library/astro.svg" 
+    src="https://svgl.app/library/astro-icon-light.svg" 
     alt="astro"
     title="astro"
     width="40" 
     height="40" 
   />
   <img
-    src="https://svgl.app/library/vitejs.svg"
+    src="https://svgl.app/library/vite.svg"
     alt="vite"
     title="vite"
     width="40"
