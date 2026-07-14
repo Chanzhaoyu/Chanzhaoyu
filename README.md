@@ -18,7 +18,7 @@
 
 | Hono | TanStack Start | Next.js | Nuxt | Astro | Vite |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| <img src="https://svgl.app/library/hono.svg" width="40" height="40" title="hono"/> | <img src="https://tanstack.com/.netlify/images?url=%2Fimages%2Flogos%2Flogo-color-100.png" width="40" height="40" title="TanStackStart"/> | <img src="https://svgl.app/library/nextjs_icon_dark.svg" width="40" height="40" title="next"/> | <img src="https://svgl.app/library/nuxt.svg" width="40" height="40" title="nuxt"/> | <img src="https://svgl.app/library/astro-icon-light.svg" width="40" height="40" title="astro"/> | <img src="https://svgl.app/library/vite.svg" width="40" height="40" title="vite"/> |
+| <img src="https://svgl.app/library/hono.svg" width="40" height="40" title="hono"/> | <img src="https://tanstack.com/images/logos/logo-black.svg" width="40" height="40" title="TanStackStart"/> | <img src="https://svgl.app/library/nextjs_icon_dark.svg" width="40" height="40" title="next"/> | <img src="https://svgl.app/library/nuxt.svg" width="40" height="40" title="nuxt"/> | <img src="https://svgl.app/library/astro-icon-light.svg" width="40" height="40" title="astro"/> | <img src="https://svgl.app/library/vite.svg" width="40" height="40" title="vite"/> |
 
 | Go |
 |:--:|
